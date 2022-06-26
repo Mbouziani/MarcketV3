@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcketV3", "MarcketV3.csproj", "{696DFA69-ABA0-446C-B445-36E5544E28E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696DFA69-ABA0-446C-B445-36E5544E28E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696DFA69-ABA0-446C-B445-36E5544E28E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696DFA69-ABA0-446C-B445-36E5544E28E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696DFA69-ABA0-446C-B445-36E5544E28E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97CB12A-B59D-4E24-BE49-0F374A953313}
+	EndGlobalSection
+EndGlobal
